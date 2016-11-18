@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">رمز امن</string>
+    <string name="generate"> Generate ! </string>
+    <string name="copy"> Copy </string>
+    <string name="clear">Clear</string>
+    <string name="pass_number">تعداد رمز</string>
+    <string name="pass_type">ترکیب رمز</string>
+    <string name="send">Send</string>
+    <string-array name="number">
+
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="pass_type">
+
+        <item> عدد</item>
+        <item> حروف</item>
+        <item> کاراکتر</item>
+        <item> ترکیبی</item>
+
+
+    </string-array>
+</resources>
